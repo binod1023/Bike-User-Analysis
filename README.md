@@ -7,13 +7,14 @@
  The company needs to decide on how to convert casual riders to annual members.
  
  ## Tools used
- pandas, numpy, seaborn, matplot, jupyter notebook
+ This project is done using Python with required libraries.  
+ The bike riders data are given for four quaters.
  
  ## Outline of Analysis
 Assessed the data, made decisions on removing null values and invalid data.
  
-Identified trends of bike use by subscribers and casual riders. 
+Identified trends of bike used by subscribers and casual riders. 
  
-Found summary statistics and correlation between variables of bike ride users.
+Showed the summary statistics and correlation between variables of bike ride users.
  
 Made recommendations for the company based on performed analysis for converting casual riders(customer) to annual members(subscribers).
